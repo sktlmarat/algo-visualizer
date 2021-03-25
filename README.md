@@ -1,4 +1,6 @@
-# algo-vusialiser
+# Algo-vusialiser
+🎩 Visualization of popular sorting algorithms
+
 
 ## Project setup
 ```
