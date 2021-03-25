@@ -1,5 +1,6 @@
 # Algo-vusialiser
 🎩 Visualization of popular sorting algorithms (Vue with Vuesax)
+Check it out: https://sharp-hopper-dcf077.netlify.app/
 
 
 ## Project setup
