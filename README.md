@@ -1,5 +1,5 @@
 # Algo-vusialiser
-🎩 Visualization of popular sorting algorithms
+🎩 Visualization of popular sorting algorithms (Vue with Vuesax)
 
 
 ## Project setup
